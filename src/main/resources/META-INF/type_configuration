@@ -1,0 +1,5 @@
+codes          =c,js,java,py
+builds         =xml,yml
+configurations =github,gitignore
+resources      =txt,png,jpg,mp4
+documentations =md

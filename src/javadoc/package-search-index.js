@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"fr.uge.gitclout.database.api"},{"l":"fr.uge.gitclout.database.entities"},{"l":"fr.uge.gitclout.database.main"}];updateSearchResults();
